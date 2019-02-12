@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hakkımda
+permalink: /hakkimda/
 ---
 
 Hi everyone, it's me, Mert Sarac.
