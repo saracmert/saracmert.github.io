@@ -3,9 +3,8 @@ layout: page
 title: Hakkımda
 permalink: /hakkimda/
 ---
+Herkese merhaba, ben Mert Saraç.
 
-Hi everyone, it's me, Mert Sarac.
+Temmuz 2018'den bu yana [Süvari](https://www.suvari.com.tr/)'de Yazılım ve Proje Geliştirme Uzmanı olarak çalışıyorum. İstanbul'da yaşıyorum. Bulut veri işleme, makine öğrenmesi ve büyük veri analizleri konusunda tecrübelerim var. Bu konulardaki tecrübelerimi 3 yıl boyunca [Neurolize](https://www.neurolize.com/)'da bulut nöropazarlama platformu geliştirirken kullandım. Çoğunlukla .NET platformunda iş akışı uygulamaları, kurumsal API'lar, WPF / Xamarin uygulamaları ve iş portalları mimarileri tasarlıyorum. Bu projelerde MongoDB, ReactJS, AngularJS, Node.js, Typescript gibi teknolojileri kullanmayı tercih ediyorum.
 
-I've been working as a Software and Project Development Specialist since July 2018 at [Süvari](https://www.suvari.com.tr/). I live in Istanbul. I have so much experiments about Cloud data processes, machine learning and big data analysis. I'd exercised my information about them while developing cloud neuromarketing platform at [Neurolize](https://www.neurolize.com/) for 3 years. I've been mostly designing the projects of workflow applications, business APIs, WPF/Xamarin applications and work portals' architecture and also developing them on .NET platform. I'd like to prefer using technologies just like MongoDB, ReactJS, AngularJS, Node.js, Typescript at these projects.
-
-I've also been developing IoT projects and being interested in electronics as a hobbyist.
+Ayrıca IoT projeleri geliştiriyorum ve hobi olarak elektronikle ilgileniyorum.
